@@ -62,7 +62,7 @@
 
 If you want to reach me.
 
-<a href="mailto:sudo313@hotmail.com">
+<a href="mailto:#">
  <img align="left" alt="hotmail" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/outlook.svg" />
 </a>
 <a href="https://t.me/root313x">
